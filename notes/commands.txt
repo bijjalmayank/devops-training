@@ -1,0 +1,8 @@
+git init
+cd ..
+mkdir
+ls
+ls -la
+..
+touch
+pwd
