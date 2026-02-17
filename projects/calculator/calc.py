@@ -6,5 +6,6 @@ class Calculator:
     def add(self):
         return self.num1+self.num2
     def sub(self):
-        return self.num1-self.num2
+        x = self.num1-self.num2
+        return x
     
